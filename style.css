@@ -1,0 +1,21 @@
+.kep{
+    width: 240px; 
+    height: 190px; 
+    opacity: 99%; 
+    margin-top: 2%;
+}
+.nagykep{
+    width: 370px;
+    height: 385px;
+    opacity: 99%;
+    margin-top: 2%;
+}
+img{
+    border: darkorange 7px solid;
+}
+hr{
+    border: white solid 1px;
+}
+.bold{
+    font-weight: bolder;
+}
